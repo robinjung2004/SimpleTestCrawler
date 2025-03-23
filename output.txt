@@ -1,0 +1,300 @@
+URL: https://www.hs-heilbronn.de/
+Titel: Hochschule Heilbronn (HHN)
+------------------------------------
+URL: https://www.hs-heilbronn.de/de
+Titel: Hochschule Heilbronn (HHN)
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/leichte-sprache
+Titel: Leichte Sprache
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/gebaerdensprache
+Titel: Gebärdensprache
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/gebaerdensprache#
+Titel: Gebärdensprache
+------------------------------------
+URL: https://www.hs-heilbronn.de/profile
+Titel: About HHN
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/login-redirect-de
+Titel: login-redirect-de
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/kontakt
+Titel: Kontakt
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/standorte
+Titel: Standorte
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/events
+Titel: Veranstaltungskalender
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/semesterterminplan
+Titel: Semesterterminplan
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/jobboerse
+Titel: Jobbörse
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/alumni
+Titel: Alumni
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/angebote-fuer-schulen
+Titel: Angebote für Schulen
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/karriere
+Titel: Karriere
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/kommunikation
+Titel: Kommunikation und Marketing
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/reset
+Titel: Informationen zum Hochschul-Account in der neuen Welt
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/hinweisgebersystem
+Titel: Compliance & Hinweisgebersystem
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/intranet
+Titel: Intranet
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/familie
+Titel: Familiengerechte Hochschule
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/leitbild
+Titel: Leitbild
+------------------------------------
+URL: https://www.charta-der-vielfalt.de/ueber-uns/ueber-die-initiative/
+Titel: Über die Initiative - Für Diversity in der Arbeitswelt
+------------------------------------
+URL: http://www.hfsw.de/
+Titel: Hochschulföderation SüdWest - HFSW
+------------------------------------
+URL: https://open.spotify.com/show/2lXe7pupwh9hHlurMAOvyq
+Titel: HHN mit allem | Podcast on Spotify
+------------------------------------
+URL: https://www.instagram.com/hochschule_heilbronn/
+Titel: HHN Hochschule Heilbronn (@hochschule_heilbronn) • Instagram photos and videos
+------------------------------------
+URL: https://www.tiktok.com/@hochschule_heilbronn
+Titel: TikTok - Make Your Day
+------------------------------------
+URL: https://www.youtube.com/user/HochschuleHeilbronn
+Titel: Bevor Sie zu YouTube weitergehen
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/impressum
+Titel: Impressum
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/datenschutz
+Titel: Datenschutz
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/barrierefreiheit
+Titel: Barrierefreiheit
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/datenschutzeinstellungen-a282521cafc521e1
+Titel: Datenschutzeinstellungen
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/leichte-sprache#
+Titel: Leichte Sprache
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/das-studium-an-der-hochschule-heilbronn-73cae78637486433
+Titel: Das Studium an der Hochschule Heilbronn
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/tipps-zur-bedienung-ce6fc7146df028f2
+Titel: Tipps zur Bedienung
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/erklaerung-zur-barriere-freiheit-1306b6346c39a29d
+Titel: Erklärung zur Barriere-Freiheit
+------------------------------------
+URL: https://www.hs-heilbronn.de/en
+Titel: Heilbronn University
+------------------------------------
+URL: https://www.hs-heilbronn.de/en#
+Titel: Heilbronn University
+------------------------------------
+URL: https://www.hs-heilbronn.de/en/research-678de3002b1ef7ea
+Titel: Research
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/herzlichwillkommen
+Titel: Erster Tag
+------------------------------------
+URL: https://www.hs-heilbronn.de/en/campuses
+Titel: Campuses
+------------------------------------
+URL: https://www.hs-heilbronn.de/en/contact
+Titel: Contact
+------------------------------------
+URL: https://www.hs-heilbronn.de/en/whyHHN
+Titel: Why HHN?
+------------------------------------
+URL: https://www.hs-heilbronn.de/en/profile
+Titel: About HHN
+------------------------------------
+URL: https://www.hs-heilbronn.de/en/academic-calendar
+Titel: Academic Calendar
+------------------------------------
+URL: https://www.hs-heilbronn.de/en/study-programmes
+Titel: All study programmes
+------------------------------------
+URL: https://www.hs-heilbronn.de/en/bachelor-application
+Titel: Application Bachelor
+------------------------------------
+URL: https://www.hs-heilbronn.de/en/master-application
+Titel: Application Master
+------------------------------------
+URL: https://www.hs-heilbronn.de/de#
+Titel: Hochschule Heilbronn (HHN)
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/studieren-probieren
+Titel: Studieren probieren
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/studieren-probieren#
+Titel: Studieren probieren
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/studium-452dd4501156a3d5
+Titel: Studium
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/info-angebote-326adfd0a5645165
+Titel: Info-Angebote
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/infoveranstaltungen
+Titel: Info-Veranstaltungen
+------------------------------------
+URL: https://eveeno.com/159829923
+Titel: Studieren probieren Frühjahr 2025 - Campus Künzelsau
+------------------------------------
+URL: https://eveeno.com/StudierenprobierenHall
+Titel: Studieren Probieren in den Osterferien am Campus Schwäbisch Hall
+------------------------------------
+URL: https://eveeno.com/studierenprobierenbc
+Titel: Studieren probieren in den Osterferien am Bildungscampus
+------------------------------------
+URL: https://eveeno.com/studierenprobierentechcampus
+Titel: Studieren probieren in den Osterferien am TechCampus
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/campus-kuenzelsau
+Titel: Campus Künzelsau
+------------------------------------
+URL: https://www.terminland.de/hs-heilbronn/
+Titel: Online-Terminbuchung von Zentrale Studienberatung der Hochschule Heilbronn - 1. Fragen zum Termin
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/studienangebot?q=
+Titel: Unsere Studiengänge
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/studium-plus
+Titel: Studium PLUS
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/studium-plus#
+Titel: Studium PLUS
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/studienangebot-3998a2c624a37941
+Titel: Studienangebot
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/studium-plus-ausbildung
+Titel: Studium Plus Ausbildung
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/studium-plus-vertiefte-praxis
+Titel: Studium PLUS vertiefte Praxis
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/studienangebot?q=degree%5B0%5D%3Dbachelor
+Titel: Unsere Studiengänge
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/landeswettbewerb-jugend-forscht-2025
+Titel: Ideen für morgen beim Landeswettbewerb Jugend forscht
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/landeswettbewerb-jugend-forscht-2025#
+Titel: Ideen für morgen beim Landeswettbewerb Jugend forscht
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/medieninformationen
+Titel: Medieninformationen
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/vera.winkler
+Titel: Vera Winkler
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/vanessa.offermann
+Titel: B.A. Vanessa Offermann
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/hill-neue-gf
+Titel: Neue Geschäftsführung für das Heilbronner Institut für Lebenslanges Lernen
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/IDA-erzielt-rekordeinnahmen-2024
+Titel: Das Institut für Digitalisierung und elektrische Antriebe (IDA) erzielt Rekordeinnahmen und fördert regionale Innovation
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/hochschule-heilbronn-wird-2025-Landespate-jugend-forscht
+Titel: Hochschule Heilbronn übernimmt 2025 die Patenschaft für den Jugend forscht Landeswettbewerb
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/landeswettbewerb-jugend-forscht-rekordbeteiligung
+Titel: Landeswettbewerb Jugend forscht startet mit Rekordbeteiligung
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/kooperation-hhn-optima
+Titel: Neue Wege für die Zukunft: HHN und OPTIMA pharma gehen Partnerschaft ein
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/kooperation-hhn-optima#
+Titel: Neue Wege für die Zukunft: HHN und OPTIMA pharma gehen Partnerschaft ein
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/thomas.pospiech
+Titel: Prof. Dr.-Ing. Thomas Pospiech
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/gila.hoch
+Titel: M.A. Gila Hoch
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/start-sose-2025
+Titel: Erfolgreicher Startschuss ins neue Semester
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/workshop-erfolgreich-als-unternehmen-bringe-deine-gruendung-mit-dem-richtigen-produktdesign-an-den-start-b5106468d42f8bb1
+Titel: Workshop - Erfolgreich als Unternehmen: Bringe deine Gründung mit dem richtigen Produktdesign an den Start
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/workshop-erfolgreich-als-unternehmen-bringe-deine-gruendung-mit-dem-richtigen-produktdesign-an-den-start-b5106468d42f8bb1#
+Titel: Workshop - Erfolgreich als Unternehmen: Bringe deine Gründung mit dem richtigen Produktdesign an den Start
+------------------------------------
+URL: https://eveeno.com/produktdesign-hhn
+Titel: Workshop Produktdesign
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/let-s-talk-digital-software-fuer-die-fertigung-der-zukunft-was-hat-fertigungssoftware-mit-datenoekonomie-und-methoden-der-kuenstlichen-intelligenz-zu-tun-ffa7c0de0a4cc267
+Titel: Let's Talk Digital: Software für die Fertigung der Zukunft - Was hat Fertigungssoftware mit Datenökonomie und Methoden der Künstlichen Intelligenz zu tun?
+------------------------------------
+URL: https://www.linkedin.com/feed/hashtag/?keywords=letstalkdigital&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7303353130291777536
+Titel: LinkedIn Login, Sign in | LinkedIn
+------------------------------------
+URL: https://www.linkedin.com/company/nucosgmbh/
+Titel: NuCOS GmbH | LinkedIn
+------------------------------------
+URL: https://www.linkedin.com/feed/hashtag/?keywords=daten%C3%B6konomie&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7303353130291777536
+Titel: LinkedIn Login, Sign in | LinkedIn
+------------------------------------
+URL: https://www.linkedin.com/feed/hashtag/?keywords=ki&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7303353130291777536
+Titel: LinkedIn Login, Sign in | LinkedIn
+------------------------------------
+URL: https://www.linkedin.com/feed/hashtag/?keywords=metall3ddruck&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7303353130291777536
+Titel: LinkedIn Login, Sign in | LinkedIn
+------------------------------------
+URL: https://www.linkedin.com/feed/hashtag/?keywords=addiplan&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7303353130291777536
+Titel: LinkedIn Login, Sign in | LinkedIn
+------------------------------------
+URL: https://www.linkedin.com/company/steinbeis-beratungszentrum-electronic-business/
+Titel: Steinbeis-Beratungszentrum Electronic Business | LinkedIn
+------------------------------------
+URL: https://www.linkedin.com/company/iwi-institut-f%C3%BCr-wirtschaftsinformatik/
+Titel: IWI - Institut für Wirtschaftsinformatik | LinkedIn
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/get_that_job_bewerbungsunterlagen
+Titel: Get that job (Teil 1) – Bewerbungsunterlagen*
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/veranstaltung-recht-und-ki
+Titel: Recht & Künstliche Intelligenz - die Zukunft ist interdisziplinär!
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/veranstaltung-recht-und-ki#
+Titel: Recht & Künstliche Intelligenz - die Zukunft ist interdisziplinär!
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/recht-und-ki
+Titel: Online-Event: Recht & KI
+------------------------------------
+URL: https://eveeno.com/irit
+Titel: Recht & KI - die Zukunft ist interdisziplinär!
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/girls-day-657c6da3361a2d10
+Titel: Girls' Day
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/girls-day-657c6da3361a2d10#
+Titel: Girls' Day
+------------------------------------
+URL: https://www.hs-heilbronn.de/de/girlsday
+Titel: Girl's Day
+------------------------------------
